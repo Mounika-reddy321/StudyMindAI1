@@ -1,0 +1,6 @@
+{
+  "name": "StudyMind AI",
+  "description": "An all-in-one interactive AI-powered learning workspace with live streaming tutoring, 100 audio stories, smart PDF notes generator, interactive exam simulator, and live daily news.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
